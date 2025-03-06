@@ -1,0 +1,41 @@
+<ALObject ObjectType="Component" FullName="Gassing Tank B (48 gal) for 3216U Quad (Front-most tank)">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>Gassing Tank B (48 gal) for 3216U Quad</FullName>
+      <DisplayName>Gassing Tank B</DisplayName>
+      <Offset>5.6515</Offset>
+      <EmptyWeight>88</EmptyWeight>
+      <EmptyCG>0</EmptyCG>
+      <ContentsType>GasB</ContentsType>
+      <FillRelationships>
+         <FillRelationship>
+            <ParentProduct>Emulsion</ParentProduct>
+            <Multiplier>0.0177</Multiplier>
+            <Offset>0</Offset>
+         </FillRelationship>
+      </FillRelationships>
+      <Capacity>
+         <DefaultWtContents>0</DefaultWtContents>
+         <DefaultVolContents>0</DefaultVolContents>
+         <DensityContents>1.0</DensityContents>
+         <UsesSightGauge>True</UsesSightGauge>
+         <Volume>181</Volume>
+         <StickLength>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>-1.33115E-07</k3>
+            <k2>4.10933E-05</k2>
+            <k1>-9.29602E-03</k1>
+            <k0>1.131187858</k0>
+         </StickLength>
+         <ContentCG>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>0</k3>
+            <k2>0</k2>
+            <k1>0</k1>
+            <k0>0</k0>
+         </ContentCG>
+      </Capacity>
+   </Component>
+</ALObject>

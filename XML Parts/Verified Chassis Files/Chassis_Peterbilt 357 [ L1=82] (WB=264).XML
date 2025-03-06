@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Chassis" FullName="Chassis_Peterbilt 357 [ L1=82] (WB=264) + Fuel + Driver + Tag" DisplayName="Chassis_Peterbilt 357 [ L1=82] (WB=264)">
+   <Chassis>
+      <FullName>Peterbilt 357 (111 BBC) L1=82</FullName>
+      <DisplayName>Peterbilt 357 (BBC=111, L1=82)</DisplayName>
+      <WB>6.70559999999991</WB>
+      <BackOfCab>1.32079999999998</BackOfCab>
+      <WtFront>4009.75655079996</WtFront>
+      <WtRear>3982.54100859996</WtRear>
+      <WtLimitFront>9071.8473999999</WtLimitFront>
+      <WtLimitRear>20865.2490199998</WtLimitRear>
+      <WtLimitTotal>29937.0964199997</WtLimitTotal>
+      <TandemSpacing>1.32079999999998</TandemSpacing>
+      <Tags>
+         <Tag>
+            <Location>8.68679999999989</Location>
+            <Weight>679.934962629992</Weight>
+            <WtLimit>4081.87773762995</WtLimit>
+            <ForceToPressure>0</ForceToPressure>
+         </Tag>
+      </Tags>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>225 lb Driver for Cab of Peterbilt 357</FullName>
+         <DisplayName>Driver</DisplayName>
+         <Offset>1.49859999999998</Offset>
+         <EmptyWeight>102.058283249999</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>None</ContentsType>
+         <InstallationNotes/>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel for Peterbilt 357</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.47319999999998</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <InstallationNotes>Standard tank is 50 gal.</InstallationNotes>
+         <Capacity>
+            <DefaultVolContents>189.270589199999</DefaultVolContents>
+            <DensityContents>0.84</DensityContents>
+            <UsesSightGauge>False</UsesSightGauge>
+            <Volume>454.249414079997</Volume>
+         </Capacity>
+      </Component>
+   </Components>
+</ALObject>

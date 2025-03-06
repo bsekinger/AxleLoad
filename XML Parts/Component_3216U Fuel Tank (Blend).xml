@@ -1,0 +1,45 @@
+<ALObject ObjectType="Component" FullName="Fuel Tank (280 gal) for 3216 Blend Truck" DisplayName="Fuel Tank for 3216 Quad">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>Fuel Tank 280 gal. for 3216 Blend</FullName>
+      <DisplayName>3216 Fuel Tank (280 gal)</DisplayName>
+      <Offset>4.888</Offset>
+      <EmptyWeight>237</EmptyWeight>
+      <EmptyCG>.1626</EmptyCG>
+      <ContentsType>Fuel</ContentsType>
+      <InstallationNotes>Automatically imports at correct location.</InstallationNotes>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>UF1001A02-1.dxf</StreetSideStd>
+      <CurbSideStd>UF1001A02-1_Left.dxf</CurbSideStd>
+      <FillRelationships>
+         <FillRelationship>
+            <ParentProduct>AN</ParentProduct>
+            <Multiplier>.06</Multiplier>
+            <Offset>0</Offset>
+         </FillRelationship>
+      </FillRelationships>
+      <Capacity>
+         <DefaultWtContents>0</DefaultWtContents>
+         <DefaultVolContents>0</DefaultVolContents>
+         <DensityContents>0.84</DensityContents>
+         <UsesSightGauge>True</UsesSightGauge>
+         <Volume>1067</Volume>
+         <StickLength>
+            <k5>0</k5>
+            <k4>1.65085E-12</k4>
+            <k3>-4.74920E-09</k3>
+            <k2>4.78841E-06</k2>
+            <k1>-3.21375E-03</k1>
+            <k0>1.614159989</k0>
+         </StickLength>
+         <ContentCG>
+            <k5>1.94922E-03</k5>
+            <k4>-5.90334E-03</k4>
+            <k3>2.21237E-03</k3>
+            <k2>6.87209E-03</k2>
+            <k1>-1.53491E-03</k1>
+            <k0>0.19199234</k0>
+         </ContentCG>
+      </Capacity>
+   </Component>
+</ALObject>

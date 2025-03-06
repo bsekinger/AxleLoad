@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Chassis" FullName="Mercedes 3028B  (UNVERIFIED)" DisplayName="Mercedes 3028B  (UNVERIFIED)">
+   <Chassis>
+      <FullName>Mercedes 3028B</FullName>
+      <DisplayName>Mercedes 3028B</DisplayName>
+      <WB>4.26719999999994</WB>
+      <BackOfCab>0.228599999999997</BackOfCab>
+      <WtFront>4199.81175382995</WtFront>
+      <WtRear>3919.94526153996</WtRear>
+      <WtLimitFront>7500.14983794992</WtLimitFront>
+      <WtLimitRear>25999.9146483997</WtLimitRear>
+      <WtLimitTotal>33500.0644863496</WtLimitTotal>
+      <TandemSpacing>1.34619999999998</TandemSpacing>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd/>
+      <CurbSideStd/>
+      <WheelDia/>
+      <WheelY/>
+      <FrameRailHt/>
+   </Chassis>
+</ALObject>

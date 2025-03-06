@@ -1,0 +1,76 @@
+<ALObject ObjectType="Body" FullName="3216 Repumper Unibody - DOT406.  Includes Hydraulic Oil, Bumper, Fire Extinguishers.  Does NOT include HR, Storage Boxes, Gas/water Tanks." DisplayName="3216R06 Repumper Body">
+   <Body>
+      <FullName>3216 Repumper Unibody - DOT406</FullName>
+      <DisplayName>3216R06 Repumper Body</DisplayName>
+      <EmptyWeight>3388</EmptyWeight>
+      <EmptyCG>2.438</EmptyCG>
+      <BodyLength>4.8768</BodyLength>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>3216 Repump Body.dxf</StreetSideStd>
+      <CurbSideStd>3216 Repump Body_Left.dxf</CurbSideStd>
+      <Tanks>
+         <Tank>
+            <DisplayName>Emulsion Tank A</DisplayName>
+            <TankType>Emulsion</TankType>
+            <Volume>5662</Volume>
+            <MaxMass>6400</MaxMass>
+            <MaxMassDesc>US DOT 406 Limit</MaxMassDesc>
+            <StickLength>
+               <k5>-3.14291178660164E-18</k5>
+               <k4>4.73882882570124E-14</k4>
+               <k3>-2.67493222810968E-10</k3>
+               <k2>7.01874823558804E-07</k2>
+               <k1>-0.00107385976762964</k1>
+               <k0>1.71634827921242</k0>
+            </StickLength>
+            <ContentCG>
+               <k5>0</k5>
+               <k4>0</k4>
+               <k3>0</k3>
+               <k2>0</k2>
+               <k1>0</k1>
+               <k0>1.213</k0>
+            </ContentCG>
+            <ContentVCG>
+               <k5>0</k5>
+               <k4>-6.45E-02</k4>
+               <k3>3.07410E-01</k3>
+               <k2>-5.45237E-01</k2>
+               <k1>-2.26786E-01</k1>
+               <k0>1.352094131</k0>
+            </ContentVCG>
+         </Tank>
+         <Tank>
+            <DisplayName>Emulsion Tank B</DisplayName>
+            <TankType>Emulsion</TankType>
+            <Volume>5662</Volume>
+            <MaxMass>6400</MaxMass>
+            <MaxMassDesc>US DOT 406 Limit</MaxMassDesc>
+            <StickLength>
+               <k5>-3.14291178660164E-18</k5>
+               <k4>4.73882882570124E-14</k4>
+               <k3>-2.67493222810968E-10</k3>
+               <k2>7.01874823558804E-07</k2>
+               <k1>-0.00107385976762964</k1>
+               <k0>1.71634827921242</k0>
+            </StickLength>
+            <ContentCG>
+               <k5>0</k5>
+               <k4>0</k4>
+               <k3>0</k3>
+               <k2>0</k2>
+               <k1>0</k1>
+               <k0>3.664</k0>
+            </ContentCG>
+            <ContentVCG>
+               <k5>0</k5>
+               <k4>-6.45E-02</k4>
+               <k3>3.07410E-01</k3>
+               <k2>-5.45237E-01</k2>
+               <k1>-2.26786E-01</k1>
+               <k0>1.352094131</k0>
+            </ContentVCG>
+         </Tank>
+      </Tanks>
+   </Body>
+</ALObject>

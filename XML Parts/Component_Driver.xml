@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Component" FullName="225lb Driver for Cab of truck">
+   <Component>
+      <LocationReference>Chassis</LocationReference>
+      <FullName>225lb Driver for Cab of truck</FullName>
+      <DisplayName>Driver</DisplayName>
+      <Offset>1.21</Offset>
+      <EmptyWeight>102</EmptyWeight>
+      <EmptyCG>0</EmptyCG>
+      <ContentsType>None</ContentsType>
+      <InstallationNotes>Make sure driver position to front axle is correct.</InstallationNotes>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd/>
+      <CurbSideStd/>
+   </Component>
+</ALObject>

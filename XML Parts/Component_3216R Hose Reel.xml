@@ -1,0 +1,15 @@
+<ALObject ObjectType="Component" FullName="(Rear) Hose-Reel for 3216 Repump[No Tanks]" DisplayName="HR for 3216 Repump">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>(Rear) Hose-Reel for 3216 Repump [No Tanks]</FullName>
+      <DisplayName>Hose Reel</DisplayName>
+      <Offset>4.8895</Offset>
+      <EmptyWeight>995</EmptyWeight>
+      <EmptyCG>.70104</EmptyCG>
+      <ContentsType>None</ContentsType>
+      <InstallationNotes>Automatically imports at correct location.</InstallationNotes>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>UU1002A02.dxf</StreetSideStd>
+      <CurbSideStd>UU1002A02_Left.dxf</CurbSideStd>
+   </Component>
+</ALObject>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Chassis" FullName="Mercedes 8x4  (UNVERIFIED)" DisplayName="Mercedes 8x4  (UNVERIFIED)">
+   <Chassis>
+      <FullName>Mercedes 8x4</FullName>
+      <DisplayName>Mercedes 8x4</DisplayName>
+      <WB>4.92759999999994</WB>
+      <BackOfCab>-0.126999999999998</BackOfCab>
+      <WtFront>6386.58056959993</WtFront>
+      <WtRear>3293.08060619996</WtRear>
+      <WtLimitFront>14968.5482099998</WtLimitFront>
+      <WtLimitRear>18960.1610659998</WtLimitRear>
+      <WtLimitTotal>33928.7092759996</WtLimitTotal>
+      <TandemSpacing>1.34619999999998</TandemSpacing>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd/>
+      <CurbSideStd/>
+      <WheelDia/>
+      <WheelY/>
+      <FrameRailHt/>
+   </Chassis>
+</ALObject>

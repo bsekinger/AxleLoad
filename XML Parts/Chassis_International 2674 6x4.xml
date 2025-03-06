@@ -1,0 +1,44 @@
+<ALObject ObjectType="Chassis" FullName="International 2674 6x4 w/ fuel and driver  (UNVERIFIED)" DisplayName="Intntl 2674 6x4 w/ fuel + driver  (UNVERIFIED)">
+   <Chassis>
+      <FullName>International 2674 6x4</FullName>
+      <DisplayName>International 2674 6x4</DisplayName>
+      <WB>6.223</WB>
+      <BackOfCab>1.6256</BackOfCab>
+      <WtFront>3992</WtFront>
+      <WtRear>4754</WtRear>
+      <WtLimitFront>9072</WtLimitFront>
+      <WtLimitRear>18144</WtLimitRear>
+      <TandemSpacing>1.3208</TandemSpacing>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd/>
+      <CurbSideStd/>
+      <WheelDia/>
+      <WheelY/>
+      <FrameRailHt/>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel Tank</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.32</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <Capacity>
+            <DefaultVolContents>375</DefaultVolContents>
+            <DensityContents>0.84</DensityContents>
+            <Volume>375</Volume>
+         </Capacity>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>225lb Driver for Cab of truck</FullName>
+         <DisplayName>Driver</DisplayName>
+         <Offset>1.22</Offset>
+         <EmptyWeight>102</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>None</ContentsType>
+      </Component>
+   </Components>
+</ALObject>

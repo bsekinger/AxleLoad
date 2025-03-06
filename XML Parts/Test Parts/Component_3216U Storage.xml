@@ -1,0 +1,11 @@
+<ALObject ObjectType="Component" FullName="Storage for 3216U.  Does not include hyd tank.">
+   <Component>
+      <LocationReference>body</LocationReference>
+      <FullName>Storage for 3216U.  Does not include hyd tank.</FullName>
+      <DisplayName>Storage for 3216U</DisplayName>
+      <Offset>0</Offset>
+      <EmptyWeight>153</EmptyWeight>
+      <EmptyCG>2.6924</EmptyCG>
+      <ContentsType>None</ContentsType>
+   </Component>
+</ALObject>

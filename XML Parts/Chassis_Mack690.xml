@@ -1,0 +1,45 @@
+<ALObject ObjectType="Chassis" FullName="Mack DM 690S with fuel and driver (WB=252 in)">
+   <Chassis>
+      <FullName>Mack DM 690S</FullName>
+      <DisplayName>Mack DM 690S</DisplayName>
+      <WB>6.4008</WB>
+      <BackOfCab>1.651</BackOfCab>
+      <WtFront>4200</WtFront>
+      <WtRear>3974</WtRear>
+      <WtLimitFront>8337</WtLimitFront>
+      <WtLimitRear>19958</WtLimitRear>
+      <TandemSpacing>1.3208</TandemSpacing>
+      <Tags>
+         <Tag>
+            <Location>9.042</Location>
+            <Weight>680</Weight>
+            <WtLimit>4082</WtLimit>
+         </Tag>
+      </Tags>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>chassis</LocationReference>
+         <FullName>Chassis Fuel Tank</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.219</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <Capacity>
+            <DefaultVolContents>375</DefaultVolContents>
+            <DensityContents>0.84</DensityContents>
+            <Volume>375</Volume>
+         </Capacity>
+      </Component>
+      <Component>
+         <LocationReference>chassis</LocationReference>
+         <FullName>225lb Driver for Cab of truck</FullName>
+         <DisplayName>Driver</DisplayName>
+         <Offset>.99</Offset>
+         <EmptyWeight>102</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>None</ContentsType>
+      </Component>
+   </Components>
+</ALObject>

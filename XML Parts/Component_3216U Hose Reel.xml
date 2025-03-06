@@ -1,0 +1,14 @@
+<ALObject ObjectType="Component" FullName="(Rear) Hose-Reel for 3216 Quad [No Tanks]" DisplayName="HR for 3216 Quad">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>(Rear) Hose-Reel for 3216 Quad [No Tanks]</FullName>
+      <DisplayName>Hose Reel</DisplayName>
+      <Offset>4.8895</Offset>
+      <EmptyWeight>1400</EmptyWeight>
+      <EmptyCG>0.90424</EmptyCG>
+      <ContentsType>None</ContentsType>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>UU1002A01.dxf</StreetSideStd>
+      <CurbSideStd>UU1002A01_Left.dxf</CurbSideStd>
+   </Component>
+</ALObject>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Chassis" FullName="International 4900 6x4 (WB=242) + Fuel + Driver" DisplayName="International 4900 6x4 (WB=242)">
+   <Chassis>
+      <FullName>International 4900 6x4</FullName>
+      <DisplayName>International 4900 6x4</DisplayName>
+      <WB>6.14679999999992</WB>
+      <BackOfCab>1.7272</BackOfCab>
+      <WtFront>3220.50582699996</WtFront>
+      <WtRear>3492.66124899996</WtRear>
+      <WtLimitFront>5443.10843999994</WtLimitFront>
+      <WtLimitRear>18143.6947999998</WtLimitRear>
+      <WtLimitTotal>23586.8032399997</WtLimitTotal>
+      <TandemSpacing>1.32079999999998</TandemSpacing>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>Chassis_International 4800_L1=68.dxf</StreetSideStd>
+      <CurbSideStd>Chassis_International 4800_L1=68_Curb.dxf</CurbSideStd>
+      <WheelDia>1.0668</WheelDia>
+      <WheelY>-.53848</WheelY>
+      <FrameRailHt>.33655</FrameRailHt>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>225 lb Driver for Cab of International</FullName>
+         <DisplayName>Driver</DisplayName>
+         <Offset>1.24459999999998</Offset>
+         <EmptyWeight>102.058283249999</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>None</ContentsType>
+         <InstallationNotes/>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel for International</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.65099999999998</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <InstallationNotes>Standard tank is 50 gal.</InstallationNotes>
+         <Capacity>
+            <DefaultVolContents>189.270589199999</DefaultVolContents>
+            <DensityContents>0.84</DensityContents>
+            <UsesSightGauge>False</UsesSightGauge>
+            <Volume>454.249414079997</Volume>
+         </Capacity>
+      </Component>
+   </Components>
+</ALObject>

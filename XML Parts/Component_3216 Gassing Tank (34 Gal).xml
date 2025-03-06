@@ -1,0 +1,43 @@
+<ALObject ObjectType="Component" FullName="Gassing Tank (34 gal) for 3216 Quad or Repump" DisplayName="34 gal Tank (for 3216)">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>Gassing Tank (34 gal) for 3216</FullName>
+      <DisplayName>Gassing Tank (34 gal)</DisplayName>
+      <Offset>6.0706</Offset>
+      <EmptyWeight>77</EmptyWeight>
+      <EmptyCG>0</EmptyCG>
+      <ContentsType>GasA</ContentsType>
+      <InstallationNotes>This gassing tank can go in one of two pre-defined spots along the hosereel frame.  Since only 30" are allocated for gassing tanks, we are limited to either one  60 gal tank or two tanks of either 34 or 48 gallons.</InstallationNotes>
+      <PlacementAllowable>CurbSideStd</PlacementAllowable>
+      <StreetSideStd/>
+      <CurbSideStd>UG1001A01-1.dxf</CurbSideStd>
+      <FillRelationships>
+         <FillRelationship>
+            <ParentProduct>Emulsion</ParentProduct>
+            <Multiplier>0.0127</Multiplier>
+            <Offset>0</Offset>
+         </FillRelationship>
+      </FillRelationships>
+      <Capacity>
+         <DensityContents>1.0</DensityContents>
+         <UsesSightGauge>True</UsesSightGauge>
+         <Volume>130</Volume>
+         <StickLength>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>-3.54417E-07</k3>
+            <k2>7.83120E-05</k2>
+            <k1>-1.28775E-02</k1>
+            <k0>1.132143482</k0>
+         </StickLength>
+         <ContentCG>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>0</k3>
+            <k2>0</k2>
+            <k1>0</k1>
+            <k0>0</k0>
+         </ContentCG>
+      </Capacity>
+   </Component>
+</ALObject>

@@ -1,0 +1,40 @@
+Created 'CreateVersion' node.
+Node text = '1.0.0'.
+Created 'SN' node.
+Node text = '2412'.
+Created 'Owner' node.
+Node text = 'Tread Corp.'.
+Created 'Description' node.
+Node text = 'SN2412 Unibody Quad'.
+Created 'IsStandardMount' node.
+Node text = 'True'.
+Created 'BodyLocation' node.
+Node text = '2.8956'.
+Created 'BridgeLaw' node.
+Node text = 'US'.
+Created 'WtAdjustFront' node.
+Node text = '0'.
+Created 'WtAdjustRear' node.
+Node text = '0'.
+Created 'ShipDate' node.
+Node text = '9/15/2003'.
+Created 'CreateVersion' node.
+Node text = '1.0.0'.
+Created 'SN' node.
+Node text = 'SN2481'.
+Created 'Owner' node.
+Node text = 'Tread Corp.'.
+Created 'Description' node.
+Node text = 'SN2481 Unibody Repump'.
+Created 'IsStandardMount' node.
+Node text = 'True'.
+Created 'BodyLocation' node.
+Node text = '2.8956'.
+Created 'BridgeLaw' node.
+Node text = 'US'.
+Created 'WtAdjustFront' node.
+Node text = '0'.
+Created 'WtAdjustRear' node.
+Node text = '0'.
+Created 'ShipDate' node.
+Node text = '9/15/2003'.

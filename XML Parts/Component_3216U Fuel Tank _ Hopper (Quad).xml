@@ -1,0 +1,43 @@
+<ALObject ObjectType="Component" FullName="Fuel Tank (250 gal) for 3216 Quad.  Includes SZP 380.2 Hopper Assy" DisplayName="Fuel Tank/Hopper for 3216 Quad">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>Fuel Tank 250 gal. w/ SZP 380.2 Hopper Assy</FullName>
+      <DisplayName>Fuel Tank</DisplayName>
+      <Offset>4.8895</Offset>
+      <EmptyWeight>372</EmptyWeight>
+      <EmptyCG>.211</EmptyCG>
+      <ContentsType>Fuel</ContentsType>
+      <InstallationNotes>Automatically imports at correct location.</InstallationNotes>
+      <PlacementAllowable>Center</PlacementAllowable>
+      <StreetSideStd>UF1003A01-1.dxf</StreetSideStd>
+      <CurbSideStd>UF1003A01-1_Left.dxf</CurbSideStd>
+      <FillRelationships>
+         <FillRelationship>
+            <ParentProduct>AN</ParentProduct>
+            <Multiplier>.06</Multiplier>
+            <Offset>0</Offset>
+         </FillRelationship>
+      </FillRelationships>
+      <Capacity>
+         <DensityContents>0.84</DensityContents>
+         <UsesSightGauge>True</UsesSightGauge>
+         <Volume>950.3</Volume>
+         <StickLength>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>-1.28695E-09</k3>
+            <k2>2.28078E-06</k2>
+            <k1>-2.73829E-03</k1>
+            <k0>1.642587831</k0>
+         </StickLength>
+         <ContentCG>
+            <k5>0</k5>
+            <k4>0</k4>
+            <k3>0</k3>
+            <k2>0</k2>
+            <k1>0</k1>
+            <k0>.2569</k0>
+         </ContentCG>
+      </Capacity>
+   </Component>
+</ALObject>

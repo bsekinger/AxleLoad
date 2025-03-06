@@ -1,0 +1,13 @@
+<ALObject ObjectType="Chassis" FullName="Mack - DM690 X">
+   <Chassis>
+      <FullName>Mack - DM690 X</FullName>
+      <DisplayName>Mack - DM690 X</DisplayName>
+      <WB>3.81</WB>
+      <BackOfCab>1.651</BackOfCab>
+      <WtFront>3470</WtFront>
+      <WtRear>1874</WtRear>
+      <WtLimitFront>5443</WtLimitFront>
+      <WtLimitRear>10433</WtLimitRear>
+      <TandemSpacing>1.3208</TandemSpacing>
+   </Chassis>
+</ALObject>

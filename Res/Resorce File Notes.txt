@@ -1,0 +1,5 @@
+*** "For some bizarre reason, you must also ensure that the resulting XML file is an even number multiple of 4 bytes long." ***
+
+HOME PAGE (SOURCE OF THIS INFO)
+-------------------------------
+http://www.vbaccelerator.com/home/VB/Code/Libraries/XP_Visual_Styles/Using_XP_Visual_Styles_in_VB/article.asp

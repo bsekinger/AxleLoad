@@ -1,0 +1,50 @@
+<ALObject ObjectType="Chassis" FullName="Mack Granite CV713 with fuel (WB=275 in)">
+   <Chassis>
+      <FullName>Mack Granite CV713</FullName>
+      <DisplayName>Mack Granite CV713</DisplayName>
+      <WB>6.985</WB>
+      <BackOfCab>1.9812</BackOfCab>
+      <WtFront>4313.7</WtFront>
+      <WtRear>3941.7</WtRear>
+      <WtLimitFront>9071.8</WtLimitFront>
+      <WtLimitRear>19958</WtLimitRear>
+      <TandemSpacing>1.3208</TandemSpacing>
+      <Tags>
+         <Tag>
+            <Location>9.3472</Location>
+            <Weight>680</Weight>
+            <WtLimit>4082</WtLimit>
+         </Tag>
+      </Tags>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel Tank 1</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.6764</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <Capacity>
+            <DefaultVolContents>208</DefaultVolContents>
+            <DensityContents>0.84</DensityContents>
+            <Volume>208</Volume>
+         </Capacity>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel Tank 2</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.6764</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <Capacity>
+            <DefaultVolContents>208</DefaultVolContents>
+            <DensityContents>.84</DensityContents>
+            <Volume>208</Volume>
+         </Capacity>
+      </Component>
+   </Components>
+</ALObject>

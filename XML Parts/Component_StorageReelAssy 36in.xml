@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Component" FullName="36&quot; Storage Reel Assy.  (150' x 1&quot; Hose)">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>36" Storage Reel Assy.  (150' x 1" Hose)</FullName>
+      <DisplayName>Storage Reel Assy</DisplayName>
+      <Offset>2.286</Offset>
+      <EmptyWeight>101</EmptyWeight>
+      <EmptyCG>0</EmptyCG>
+      <ContentsType>None</ContentsType>
+      <PlacementAllowable>Either Side</PlacementAllowable>
+      <StreetSideStd>UX1004A01-1.dxf</StreetSideStd>
+      <CurbSideStd>UX1004A01-1.dxf</CurbSideStd>
+   </Component>
+</ALObject>

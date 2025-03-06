@@ -1,0 +1,22 @@
+<ALObject ObjectType="Component" FullName="IME SLP-22 Container 54 inch" DisplayName="IME Box 54&quot;">
+   <Component>
+      <LocationReference>Body</LocationReference>
+      <FullName>IME SLP-22 Container 54 inch</FullName>
+      <DisplayName>IME Box 54"</DisplayName>
+      <Offset>.9144</Offset>
+      <EmptyWeight>231</EmptyWeight>
+      <EmptyCG>0</EmptyCG>
+      <ContentsType>Other</ContentsType>
+      <InstallationNotes>The IME box should nearly always be placed 36" from the front of the body.</InstallationNotes>
+      <PlacementAllowable>Either Side</PlacementAllowable>
+      <StreetSideStd>US1005A01S-1.dxf</StreetSideStd>
+      <CurbSideStd>US1005A01S-1.dxf</CurbSideStd>
+      <Capacity>
+         <DefaultWtContents>25</DefaultWtContents>
+         <DefaultVolContents>0</DefaultVolContents>
+         <DensityContents>7</DensityContents>
+         <UsesSightGauge>False</UsesSightGauge>
+         <Volume>390</Volume>
+      </Capacity>
+   </Component>
+</ALObject>

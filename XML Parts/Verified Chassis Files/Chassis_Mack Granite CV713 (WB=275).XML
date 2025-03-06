@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ALObject ObjectType="Chassis" FullName="Mack Granite CV713 (WB=275) + Fuel + Driver + Tag" DisplayName="Mack Granite CV713 (WB=275)">
+   <Chassis>
+      <FullName>Mack Granite CV713 (WB=275)</FullName>
+      <DisplayName>Mack Granite CV713</DisplayName>
+      <WB>6.98499999999991</WB>
+      <BackOfCab>1.98119999999997</BackOfCab>
+      <WtFront>4127.69056699995</WtFront>
+      <WtRear>4009.75655079996</WtRear>
+      <WtLimitFront>9071.8473999999</WtLimitFront>
+      <WtLimitRear>19958.0642799998</WtLimitRear>
+      <WtLimitTotal>29029.9116799997</WtLimitTotal>
+      <TandemSpacing>1.32079999999998</TandemSpacing>
+      <Tags>
+         <Tag>
+            <Location>9.34719999999988</Location>
+            <Weight>679.934962629992</Weight>
+            <WtLimit>4081.87773762995</WtLimit>
+            <ForceToPressure>0</ForceToPressure>
+         </Tag>
+      </Tags>
+   </Chassis>
+   <Components>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel Tank 1</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.90499999999997</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <InstallationNotes/>
+         <Capacity>
+            <DefaultVolContents>208.197648119999</DefaultVolContents>
+            <DensityContents>.84</DensityContents>
+            <UsesSightGauge>False</UsesSightGauge>
+            <Volume>208.197648119999</Volume>
+         </Capacity>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>Chassis Fuel Tank 2</FullName>
+         <DisplayName>Chassis Fuel</DisplayName>
+         <Offset>1.90499999999997</Offset>
+         <EmptyWeight>0</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>Other</ContentsType>
+         <InstallationNotes/>
+         <Capacity>
+            <DefaultVolContents>208.197648119999</DefaultVolContents>
+            <DensityContents>.84</DensityContents>
+            <UsesSightGauge>False</UsesSightGauge>
+            <Volume>208.197648119999</Volume>
+         </Capacity>
+      </Component>
+      <Component>
+         <LocationReference>Chassis</LocationReference>
+         <FullName>225 lb Driver for Cab of Mack Granite</FullName>
+         <DisplayName>Driver</DisplayName>
+         <Offset>1.44779999999998</Offset>
+         <EmptyWeight>102.058283249999</EmptyWeight>
+         <EmptyCG>0</EmptyCG>
+         <ContentsType>None</ContentsType>
+         <InstallationNotes/>
+      </Component>
+   </Components>
+</ALObject>

@@ -1,0 +1,15 @@
+<GlobalInfo>
+	<DensityAN>0.8</DensityAN>
+	<DensityEmul>1.3</DensityEmul>
+	<DensityFuel>1</DensityFuel>
+	<DensityWater>1</DensityWater>
+	<DensityGasA>1.1</DensityGasA>
+	<DensityGasB>1.1</DensityGasB>
+	<DensityAdditive>0.8</DensityAdditive>
+	<AvoidLowFill>True</AvoidLowFill>
+	<TruckFolder>D:\My Documents\VB_Progs\Axleload_Unibody\XML Trucks\</TruckFolder>
+	<ALObjectFolder>D:\My Documents\VB_Progs\Axleload_Unibody\XML Parts\</ALObjectFolder>
+	<VolumeUnits Display="gal" Multiplier="0.26417205235815"/>
+	<DistanceUnits Display="in" Multiplier="39.370078740158"/>
+	<MassUnits Display="lbs" Multiplier="2.2046226218488"/>
+</GlobalInfo>
